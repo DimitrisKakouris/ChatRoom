@@ -1,3 +1,0 @@
-groupname1
-groupname2
-groupname3
